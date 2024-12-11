@@ -4,9 +4,9 @@
 
 [Дизайн Figma](https://www.figma.com/file/k1LcgXHGTHIeiCv4XuPbND/FakeNFT-(YP)?node-id=96-5542&t=YdNbOI8EcqdYmDeg-0)
 
-[screencast Profile](https://drive.google.com/file/d/15lSo4eOYvXu79ht6FVwPE8GN2EvMlPGl/view?usp=sharing)
+[Скринкаст Profile](https://drive.google.com/file/d/15lSo4eOYvXu79ht6FVwPE8GN2EvMlPGl/view?usp=sharing)
 
-[screencast Catalogue](https://youtu.be/DqgCbbqxUrY)
+[Скринкаст Catalogue](https://youtu.be/DqgCbbqxUrY)
 
 # Назначение и цели приложения
 
